@@ -1,2 +1,2 @@
-# codealpha_tasks
-Tasks completed during CodeAlpha Internship
+# codealpha_task
+Task 1 completed during CodeAlpha Internship
